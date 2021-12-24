@@ -5,7 +5,7 @@ Department of Computer Science and Engineering
 18CSE751 Introduction to Machine Learning Learning Activity Proposal
 Urban Sound Classification
 
-Mukesh Goit, Umang Harlalka , Abhinash Prasad Sah
+Mukesh Goit, Umang Kumar Harlalka , Abhinash Prasad Sah
 
 Abstract
 This learning activity project is a simple audio classification model based on machine learning and deep learning. We address the problem of classifying the type of sound based on short audio signals and their generated spectrograms, from labeled sounds belonging to 10 different classes during model training. In order to meet this challenge, we use a model based on Convolutional Neural Network (CNN),Artificial neural network(ANN) or KNN. The audio was processed with Mel-frequency Cepstral Coefficients (MFCC) into what's commonly known as Mel spectrograms, and hence, was transformed into an image. Our final CNN model achieved 91% accuracy on the testing datasets.
@@ -30,7 +30,7 @@ Presentation and Visualization
 Accuracy scores of the ANN and  CNN models will be displayed. Moreover, an audio file can be used to describe the use of the models.
 Roles
 Mukesh Goit – CNN implementation. 
-Umang Hrlalka –ANN  implementation.
+Umang Kumar Harlalka –ANN  implementation.
 Abhinash prasad Shah – pre-processing of dataset and MFCCs implementation.
 Schedule
 The schedule is a table of dates and tasks that you plan to complete.
